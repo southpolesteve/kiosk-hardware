@@ -1,5 +1,9 @@
 ## Kiosk Bill of Materials
 
-1 - [Small micro SD adapter](http://www.adafruit.com/products/966)
-1 - Raspberry Pi
-1 - MicroSD card
+- [Small micro SD adapter](http://www.adafruit.com/products/966)
+- Raspberry Pi
+- MicroSD card
+- USB power supply
+- HDMI Cable
+- Monitor
+- Lasercut Mounting Bracket
